@@ -16,4 +16,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flap93&count_private=true&show_icons=true&theme=dark)](https://github.com/flap93/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flap93&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flap93&theme=dark)]
