@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix Palacios</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **at Codeable(intensive bootcamp)**
+- 🌱 Graduated from Codeable(intensive bootcamp)**
 
 - 📫 How to reach me **flpalacios93@gmail.com**
 
